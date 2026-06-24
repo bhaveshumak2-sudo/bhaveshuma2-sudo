@@ -167,3 +167,18 @@ print(me.goal())
 <h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
 
 <h3 align="center">🚀 Let's Build The Future With AI 🚀</h3>
+---
+
+<h2 align="center">🚀 Let's Build Something Amazing Together</h2>
+
+<p align="center">
+  <img src="./assets/tenor.gif" width="350" alt="Virat Kohli GIF"/>
+</p>
+
+<h3 align="center">
+🔥 Dream Big • Build Bigger • Never Give Up 🔥
+</h3>
+
+<h4 align="center">
+💻 Code Like a Developer • 🤖 Think Like an AI Engineer • 🏆 Perform Like a Champion
+</h4>
