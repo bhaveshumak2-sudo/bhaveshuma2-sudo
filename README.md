@@ -169,10 +169,12 @@ print(me.goal())
 <h3 align="center">🚀 Let's Build The Future With AI 🚀</h3>
 ---
 
+---
+
 <h2 align="center">🚀 Let's Build Something Amazing Together</h2>
 
 <p align="center">
-  <img src="./assets/tenor.gif" width="350" alt="Virat Kohli GIF"/>
+  <img src="./tenor.gif" width="350" alt="Virat Kohli GIF"/>
 </p>
 
 <h3 align="center">
