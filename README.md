@@ -1,63 +1,169 @@
-<h1 align="center">Hi 👋, I'm Bhavesh Umak</h1>
-<h3 align="center">🚀 Aspiring AI/ML Engineer | Python Developer | Generative AI Enthusiast</h3>
+<h1 align="center">🚀 Hi, I'm Bhavesh Umak</h1>
+
+<h3 align="center">
+AI Engineer in Progress 🤖 | CSE (AIML) Student 🎓 | Python Developer 🐍
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+in+Progress;Python+Developer;Generative+AI+Enthusiast;Building+Real-World+Projects" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+Engineer;Machine+Learning+Enthusiast;Generative+AI+Learner;Python+Developer;Building+Real+World+Projects;Future+LLM+Engineer" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=bhaveshumak2-sudo&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 Computer Science Engineering (AIML) Student
+🎓 B.Tech CSE (AIML) Student
 
-🤖 Passionate about Artificial Intelligence & Machine Learning
+🤖 Passionate about Artificial Intelligence, Machine Learning & Generative AI
 
-🐍 Python Developer
+💻 Building AI-powered applications and solving real-world problems
 
-🌱 Currently learning Deep Learning, FastAPI and LLM Applications
+🌱 Currently Learning
 
-💡 Building projects that solve real-world problems
+* Python
+* Machine Learning
+* Deep Learning
+* Data Structures & Algorithms
+* LLMs
+* Generative AI
+* Full Stack Development
 
-🎯 Goal: Become a Generative AI Engineer
+🎯 Goal
 
----
+Become a Professional AI Engineer and contribute to cutting-edge AI innovations.
 
-## 🚀 Tech Stack
+⚡ Fun Fact
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-
-![Bhavesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaveshumak2-sudo&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=bhaveshumak2-sudo)
+> Consistency beats talent when talent doesn't work hard.
 
 ---
 
-## 🎯 Current Focus
+# 🛠️ Tech Stack
 
-- Machine Learning Projects
-- Generative AI Applications
-- Open Source Contributions
-- Problem Solving & DSA
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css" />
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel,figma" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Stats
 
-📧 **bhaveshumak2@gmail.com**
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhaveshumak2-sudo&show_icons=true&theme=tokyonight" />
 
-📍 Amravati, Maharashtra, India
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhaveshumak2-sudo&theme=tokyonight" />
+</p>
 
 ---
 
-⭐ *"Always Learning, Building and Improving."*
+# 💻 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshumak2-sudo&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaveshumak2-sudo&theme=tokyo-night" />
+</p>
+
+---
+
+# 🚀 Current Focus
+
+```python
+class BhaveshUmak:
+    def __init__(self):
+        self.role = "AI Engineer in Progress"
+        self.branch = "CSE (AIML)"
+        self.location = "Amravati, India"
+
+    def skills(self):
+        return [
+            "Python",
+            "Machine Learning",
+            "Deep Learning",
+            "Generative AI",
+            "Git",
+            "GitHub"
+        ]
+
+    def goal(self):
+        return "Become a Professional AI Engineer"
+
+me = BhaveshUmak()
+print(me.goal())
+```
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/bhaveshumak2-sudo">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:bhaveshumak2@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+✅ CSE (AIML) Student
+
+✅ AI & ML Enthusiast
+
+✅ Open Source Learner
+
+✅ Python Developer
+
+✅ Future Generative AI Engineer
+
+---
+
+# 💭 Quote
+
+> "The future belongs to those who learn more skills and combine them in creative ways."
+
+---
+
+<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
+
+<h3 align="center">🚀 Let's Build The Future With AI 🚀</h3>
