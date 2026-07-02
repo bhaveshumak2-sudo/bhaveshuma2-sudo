@@ -80,11 +80,7 @@ Become a Professional AI Engineer and contribute to cutting-edge AI innovations.
 
 ---
 
-# 💻 Most Used Languages
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshumak2-sudo&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
